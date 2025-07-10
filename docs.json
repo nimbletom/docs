@@ -17,10 +17,7 @@
             "group": "Nimble SDK",
             "pages": [
               {
-                "group": "Web API",
-              },
-              {
-                "group": "Proxy API",
+                "group": "Web API"
               },
               "index",
               "quickstart",
