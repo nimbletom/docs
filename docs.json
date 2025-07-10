@@ -14,11 +14,8 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Nimble SDK",
+            "group": "Get Started",
             "pages": [
-              {
-                "group": "Web API"
-              },
               "index",
               "quickstart",
               "development"
@@ -58,7 +55,25 @@
         ]
       }
     ],
-    "global": {}
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Documentation",
+          "href": "https://mintlify.com/docs",
+          "icon": "book-open-cover"
+        },
+        {
+          "anchor": "Community",
+          "href": "https://mintlify.com/community",
+          "icon": "slack"
+        },
+        {
+          "anchor": "Blog",
+          "href": "https://mintlify.com/blog",
+          "icon": "newspaper"
+        }
+      ]
+    }
   },
   "logo": {
     "light": "/logo/light.svg",
