@@ -22,11 +22,26 @@
             ]
           },
           {
-            "group": "Nimble SDK",
+            "group": "Getting Started",
+    		"icon": "play",
             "pages": [
-              "index",
               "quickstart",
-              "development"
+              {
+                "group": "Editing",
+    			"icon": "pencil",
+                "pages": [
+    				"installation",
+    				"editor",
+    				{
+    					"group": "Nested group",
+    					"icon": "code",
+    					"pages": [
+    						"navigation",
+    						"code"
+    					]
+    				}
+    			]
+              }
             ]
           },
           {
