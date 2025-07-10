@@ -32,6 +32,15 @@
             ]
           },
           {
+            "group": "Tom",
+            "icon": "person",
+            "pages": [
+              "tom/is",
+              "tom/the",
+              "tom/best"
+            ]
+          },
+          {
             "group": "Endpoints",
             "icon": "server",
             "pages": [
