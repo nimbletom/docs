@@ -22,6 +22,14 @@
             ]
           },
           {
+            "group": "Nimble SDK",
+            "pages": [
+              "index",
+              "quickstart",
+              "development"
+            ]
+          },
+          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
