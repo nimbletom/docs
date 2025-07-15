@@ -58,8 +58,13 @@
             },
             {
                 "tab": "Nimble SDK",
-                "pages": [
-                  "nimble-sdk/sdk-overview"
+                "anchors": [
+                  {
+                    "anchor": "Nimble SDK Anchor",
+                    "pages": [
+                      "nimble-sdk/sdk-overview"
+                    ]
+                  }
                 ],
                 "groups": [
                     {
