@@ -70,17 +70,16 @@
                                 "group": "Getting Started",
                                 "icon": "play",
                                 "pages": [
-                                    "getting-started/installation",
-                                    "getting-started/quickstart"
+                                    "nimble-sdk/create",
+                                    "nimble-sdk/delete"
                                 ]
                             },
                             {
                                 "group": "Functions",
                                 "icon": "function-square",
                                 "pages": [
-                                    "functions/overview",
-                                    "functions/auth",
-                                    "functions/data-processing"
+                                    "nimble-sdk/create",
+                                    "nimble-sdk/delete"
                                 ]
                             },
                             {
