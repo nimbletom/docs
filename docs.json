@@ -89,7 +89,7 @@
                 ]
             },
           {
-                "tab": "Management Tools",
+                "tab": "General",
                 "pages": [
                     "sdk/fetch",
                     "sdk/create",
