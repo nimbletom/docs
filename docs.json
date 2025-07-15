@@ -95,6 +95,14 @@
                     "sdk/create",
                     "sdk/delete"
                 ]
+            },
+          {
+                "tab": "Changelog",
+                "pages": [
+                    "sdk/fetch",
+                    "sdk/create",
+                    "sdk/delete"
+                ]
             }
         ]
     },
