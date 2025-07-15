@@ -58,15 +58,6 @@
             },
             {
                 "tab": "Nimble SDK",
-                "anchors": [
-                  {
-                    "anchor": "Nimble SDK Anchor",
-                    "icon": "book-open",
-                    "pages": [
-                      "nimble-sdk/sdk-overview"
-                    ]
-                  }
-                ],
                 "groups": [
                     {
                         "group": "Web API",
@@ -167,6 +158,15 @@
                             }
                         ]
                     }
+                ],
+                "anchors": [
+                  {
+                    "anchor": "Nimble SDK Anchor",
+                    "icon": "book-open",
+                    "pages": [
+                      "nimble-sdk/sdk-overview"
+                    ]
+                  }
                 ]
             },
             {
