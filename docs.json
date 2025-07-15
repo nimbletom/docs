@@ -68,34 +68,16 @@
                                 "group": "Getting Started",
                                 "icon": "play",
                                 "pages": [
-                                    "nimble-sdk/create",
-                                    "nimble-sdk/delete"
+                                    "nimble-sdk/web-api/getting-started-create",
+                                    "nimble-sdk/web-api/getting-started-delete"
                                 ]
                             },
                             {
                                 "group": "Functions",
                                 "icon": "function-square",
                                 "pages": [
-                                    "nimble-sdk/create",
-                                    "nimble-sdk/delete"
-                                ]
-                            },
-                            {
-                                "group": "Tom",
-                                "icon": "person",
-                                "pages": [
-                                    "tom/is",
-                                    "tom/the",
-                                    "tom/best"
-                                ]
-                            },
-                            {
-                                "group": "Endpoints",
-                                "icon": "server",
-                                "pages": [
-                                    "endpoints/overview",
-                                    "endpoints/user",
-                                    "endpoints/data"
+                                    "nimble-sdk/web-api/function-create",
+                                    "nimble-sdk/web-api/function-delete"
                                 ]
                             }
                         ]
@@ -108,35 +90,25 @@
                                 "group": "Getting Started",
                                 "icon": "play",
                                 "pages": [
-                                    "getting-started/installation",
-                                    "getting-started/quickstart"
+                                    "nimble-sdk/web-retrieval/installation",
+                                    "nimble-sdk/web-retrieval/quickstart"
                                 ]
                             },
                             {
                                 "group": "Functions",
                                 "icon": "function-square",
                                 "pages": [
-                                    "functions/overview",
-                                    "functions/auth",
-                                    "functions/data-processing"
-                                ]
-                            },
-                            {
-                                "group": "Tom",
-                                "icon": "person",
-                                "pages": [
-                                    "tom/is",
-                                    "tom/the",
-                                    "tom/best"
+                                    "nimble-sdk/web-retrieval/overview",
+                                    "nimble-sdk/web-retrieval/auth"
                                 ]
                             },
                             {
                                 "group": "Endpoints",
                                 "icon": "server",
                                 "pages": [
-                                    "endpoints/overview",
-                                    "endpoints/user",
-                                    "endpoints/data"
+                                    "nimble-sdk/web-retrieval/endpoints-overview",
+                                    "nimble-sdk/web-retrieval/endpoints-user",
+                                    "nimble-sdk/web-retrieval/endpoints-data"
                                 ]
                             }
                         ]
@@ -149,35 +121,17 @@
                                 "group": "Getting Started",
                                 "icon": "play",
                                 "pages": [
-                                    "getting-started/installation",
-                                    "getting-started/quickstart"
+                                    "nimble-sdk/proxy-api/installation",
+                                    "nimble-sdk/proxy-api/quickstart"
                                 ]
                             },
                             {
                                 "group": "Functions",
                                 "icon": "function-square",
                                 "pages": [
-                                    "functions/overview",
-                                    "functions/auth",
-                                    "functions/data-processing"
-                                ]
-                            },
-                            {
-                                "group": "Tom",
-                                "icon": "person",
-                                "pages": [
-                                    "tom/is",
-                                    "tom/the",
-                                    "tom/best"
-                                ]
-                            },
-                            {
-                                "group": "Endpoints",
-                                "icon": "server",
-                                "pages": [
-                                    "endpoints/overview",
-                                    "endpoints/user",
-                                    "endpoints/data"
+                                    "nimble-sdk/proxy-api/overview",
+                                    "nimble-sdk/proxy-api/auth",
+                                    "nimble-sdk/proxy-api/data-processing"
                                 ]
                             }
                         ]
@@ -190,35 +144,17 @@
                                 "group": "Getting Started",
                                 "icon": "play",
                                 "pages": [
-                                    "getting-started/installation",
-                                    "getting-started/quickstart"
+                                    "nimble-sdk/client-libraries/installation",
+                                    "nimble-sdk/client-libraries/quickstart"
                                 ]
                             },
                             {
                                 "group": "Functions",
                                 "icon": "function-square",
                                 "pages": [
-                                    "functions/overview",
-                                    "functions/auth",
-                                    "functions/data-processing"
-                                ]
-                            },
-                            {
-                                "group": "Tom",
-                                "icon": "person",
-                                "pages": [
-                                    "tom/is",
-                                    "tom/the",
-                                    "tom/best"
-                                ]
-                            },
-                            {
-                                "group": "Endpoints",
-                                "icon": "server",
-                                "pages": [
-                                    "endpoints/overview",
-                                    "endpoints/user",
-                                    "endpoints/data"
+                                    "nimble-sdk/client-libraries/overview",
+                                    "nimble-sdk/client-libraries/auth",
+                                    "nimble-sdk/client-libraries/data-processing"
                                 ]
                             }
                         ]
