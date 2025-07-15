@@ -9,71 +9,49 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "groups": [
       {
-        "tab": "Guides",
-        "groups": [
+        "group": "Nimble SDK",
+        "icon": "package",
+        "pages": [
           {
-            "group": "Nimble SDK",
+            "group": "Getting Started",
+            "icon": "play",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "getting-started/installation",
+              "getting-started/quickstart"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Functions",
+            "icon": "function-square",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
+              "functions/overview",
+              "functions/auth",
+              "functions/data-processing"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Tom",
+            "icon": "person",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "tom/is",
+              "tom/the",
+              "tom/best"
+            ]
+          },
+          {
+            "group": "Endpoints",
+            "icon": "server",
+            "pages": [
+              "endpoints/overview",
+              "endpoints/user",
+              "endpoints/data"
             ]
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",

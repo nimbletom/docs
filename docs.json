@@ -9,7 +9,10 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "groups": [
+    "tabs": [
+    {
+      "tab": "API References",
+      "groups": [
       {
         "group": "Nimble SDK",
         "icon": "package",
@@ -52,6 +55,20 @@
         ]
       }
     ]
+    },
+    {
+      "tab": "SDKs",
+      "pages": [
+        "sdk/fetch",
+        "sdk/create",
+        "sdk/delete",
+      ]
+    },
+    {
+      "tab": "Blog",
+      "href": "https://external-link.com/blog"
+    }
+  ]
   },
   "logo": {
     "light": "/logo/light.svg",
