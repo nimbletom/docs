@@ -59,9 +59,173 @@
             {
                 "tab": "Nimble SDK",
                 "pages": [
-                    "sdk/fetch",
-                    "sdk/create",
-                    "sdk/delete"
+                  "nimble-sdk/sdk-overview"
+                ],
+                "groups": [
+                    {
+                        "group": "Web API",
+                        "icon": "package",
+                        "pages": [
+                            {
+                                "group": "Getting Started",
+                                "icon": "play",
+                                "pages": [
+                                    "getting-started/installation",
+                                    "getting-started/quickstart"
+                                ]
+                            },
+                            {
+                                "group": "Functions",
+                                "icon": "function-square",
+                                "pages": [
+                                    "functions/overview",
+                                    "functions/auth",
+                                    "functions/data-processing"
+                                ]
+                            },
+                            {
+                                "group": "Tom",
+                                "icon": "person",
+                                "pages": [
+                                    "tom/is",
+                                    "tom/the",
+                                    "tom/best"
+                                ]
+                            },
+                            {
+                                "group": "Endpoints",
+                                "icon": "server",
+                                "pages": [
+                                    "endpoints/overview",
+                                    "endpoints/user",
+                                    "endpoints/data"
+                                ]
+                            }
+                        ]
+                    },
+                  {
+                        "group": "Web Retrieval API",
+                        "icon": "package",
+                        "pages": [
+                            {
+                                "group": "Getting Started",
+                                "icon": "play",
+                                "pages": [
+                                    "getting-started/installation",
+                                    "getting-started/quickstart"
+                                ]
+                            },
+                            {
+                                "group": "Functions",
+                                "icon": "function-square",
+                                "pages": [
+                                    "functions/overview",
+                                    "functions/auth",
+                                    "functions/data-processing"
+                                ]
+                            },
+                            {
+                                "group": "Tom",
+                                "icon": "person",
+                                "pages": [
+                                    "tom/is",
+                                    "tom/the",
+                                    "tom/best"
+                                ]
+                            },
+                            {
+                                "group": "Endpoints",
+                                "icon": "server",
+                                "pages": [
+                                    "endpoints/overview",
+                                    "endpoints/user",
+                                    "endpoints/data"
+                                ]
+                            }
+                        ]
+                    },
+                  {
+                        "group": "Proxy API",
+                        "icon": "package",
+                        "pages": [
+                            {
+                                "group": "Getting Started",
+                                "icon": "play",
+                                "pages": [
+                                    "getting-started/installation",
+                                    "getting-started/quickstart"
+                                ]
+                            },
+                            {
+                                "group": "Functions",
+                                "icon": "function-square",
+                                "pages": [
+                                    "functions/overview",
+                                    "functions/auth",
+                                    "functions/data-processing"
+                                ]
+                            },
+                            {
+                                "group": "Tom",
+                                "icon": "person",
+                                "pages": [
+                                    "tom/is",
+                                    "tom/the",
+                                    "tom/best"
+                                ]
+                            },
+                            {
+                                "group": "Endpoints",
+                                "icon": "server",
+                                "pages": [
+                                    "endpoints/overview",
+                                    "endpoints/user",
+                                    "endpoints/data"
+                                ]
+                            }
+                        ]
+                    },
+                  {
+                        "group": "Client Libraries",
+                        "icon": "package",
+                        "pages": [
+                            {
+                                "group": "Getting Started",
+                                "icon": "play",
+                                "pages": [
+                                    "getting-started/installation",
+                                    "getting-started/quickstart"
+                                ]
+                            },
+                            {
+                                "group": "Functions",
+                                "icon": "function-square",
+                                "pages": [
+                                    "functions/overview",
+                                    "functions/auth",
+                                    "functions/data-processing"
+                                ]
+                            },
+                            {
+                                "group": "Tom",
+                                "icon": "person",
+                                "pages": [
+                                    "tom/is",
+                                    "tom/the",
+                                    "tom/best"
+                                ]
+                            },
+                            {
+                                "group": "Endpoints",
+                                "icon": "server",
+                                "pages": [
+                                    "endpoints/overview",
+                                    "endpoints/user",
+                                    "endpoints/data"
+                                ]
+                            }
+                        ]
+                    }
                 ]
             },
             {
