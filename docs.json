@@ -1,80 +1,97 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Nimble Docs",
-  "colors": {
-    "primary": "#7C8DFF",
-    "light": "#C1C9FF",
-    "dark": "#2B3058"
-  },
-  "favicon": "/favicon.svg",
-  "navigation": {
-    "groups": [
-      {
-        "group": "Nimble SDK",
-        "icon": "package",
-        "pages": [
-          {
-            "group": "Getting Started",
-            "icon": "play",
-            "pages": [
-              "getting-started/installation",
-              "getting-started/quickstart"
-            ]
-          },
-          {
-            "group": "Functions",
-            "icon": "function-square",
-            "pages": [
-              "functions/overview",
-              "functions/auth",
-              "functions/data-processing"
-            ]
-          },
-          {
-            "group": "Tom",
-            "icon": "person",
-            "pages": [
-              "tom/is",
-              "tom/the",
-              "tom/best"
-            ]
-          },
-          {
-            "group": "Endpoints",
-            "icon": "server",
-            "pages": [
-              "endpoints/overview",
-              "endpoints/user",
-              "endpoints/data"
-            ]
-          }
+    "$schema": "https://mintlify.com/docs.json",
+    "theme": "mint",
+    "name": "Nimble Docs",
+    "colors": {
+        "primary": "#7C8DFF",
+        "light": "#C1C9FF",
+        "dark": "#2B3058"
+    },
+    "favicon": "/favicon.svg",
+    "navigation": {
+        "tabs": [
+            {
+                "tab": "API References",
+                "groups": [
+                    {
+                        "group": "Nimble SDK",
+                        "icon": "package",
+                        "pages": [
+                            {
+                                "group": "Getting Started",
+                                "icon": "play",
+                                "pages": [
+                                    "getting-started/installation",
+                                    "getting-started/quickstart"
+                                ]
+                            },
+                            {
+                                "group": "Functions",
+                                "icon": "function-square",
+                                "pages": [
+                                    "functions/overview",
+                                    "functions/auth",
+                                    "functions/data-processing"
+                                ]
+                            },
+                            {
+                                "group": "Tom",
+                                "icon": "person",
+                                "pages": [
+                                    "tom/is",
+                                    "tom/the",
+                                    "tom/best"
+                                ]
+                            },
+                            {
+                                "group": "Endpoints",
+                                "icon": "server",
+                                "pages": [
+                                    "endpoints/overview",
+                                    "endpoints/user",
+                                    "endpoints/data"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "tab": "SDKs",
+                "pages": [
+                    "sdk/fetch",
+                    "sdk/create",
+                    "sdk/delete"
+                ]
+            },
+            {
+                "tab": "Blog",
+                "href": "https://external-link.com/blog"
+            }
         ]
-      }
-    ]
-  },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+    },
+    "logo": {
+        "light": "/logo/light.svg",
+        "dark": "/logo/dark.svg"
+    },
+    "navbar": {
+        "links": [
+            {
+                "label": "Support",
+                "href": "mailto:hi@mintlify.com"
+            }
+        ],
+        "primary": {
+            "type": "button",
+            "label": "Dashboard",
+            "href": "https://dashboard.mintlify.com"
+        }
+    },
+    "footer": {
+        "socials": {
+            "x": "https://x.com/mintlify",
+            "github": "https://github.com/mintlify",
+            "linkedin": "https://linkedin.com/company/mintlify"
+        }
     }
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
-  }
 }
