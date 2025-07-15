@@ -65,7 +65,7 @@
                       "nimble-sdk/sdk-overview"
                     ]
                   }
-                ]
+                ],
                 "groups": [
                     {
                         "group": "Web API",
