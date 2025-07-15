@@ -11,7 +11,7 @@
     "navigation": {
         "tabs": [
             {
-                "tab": "API References",
+                "tab": "Getting Started",
                 "groups": [
                     {
                         "group": "Nimble SDK",
@@ -57,7 +57,7 @@
                 ]
             },
             {
-                "tab": "SDKs",
+                "tab": "Nimble SDK",
                 "pages": [
                     "sdk/fetch",
                     "sdk/create",
@@ -65,8 +65,36 @@
                 ]
             },
             {
-                "tab": "Blog",
-                "href": "https://external-link.com/blog"
+                "tab": "AI Agents",
+                "pages": [
+                    "sdk/fetch",
+                    "sdk/create",
+                    "sdk/delete"
+                ]
+            },
+          {
+                "tab": "Technologies",
+                "pages": [
+                    "sdk/fetch",
+                    "sdk/create",
+                    "sdk/delete"
+                ]
+            },
+          {
+                "tab": "Management Tools",
+                "pages": [
+                    "sdk/fetch",
+                    "sdk/create",
+                    "sdk/delete"
+                ]
+            },
+          {
+                "tab": "Management Tools",
+                "pages": [
+                    "sdk/fetch",
+                    "sdk/create",
+                    "sdk/delete"
+                ]
             }
         ]
     },
