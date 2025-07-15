@@ -60,6 +60,13 @@
                 "tab": "Nimble SDK",
                 "groups": [
                     {
+                        "group": "Getting Started",
+                        "icon": "package",
+                        "pages": [
+                            "nimble-sdk/sdk-overview"
+                        ]
+                    },
+                    {
                         "group": "Web API",
                         "icon": "package",
                         "pages": [
@@ -158,10 +165,7 @@
                             }
                         ]
                     }
-                ],
-              "pages": [
-                "nimble-sdk/sdk-overview"
-              ]
+                ]
             },
             {
                 "tab": "AI Agents",
